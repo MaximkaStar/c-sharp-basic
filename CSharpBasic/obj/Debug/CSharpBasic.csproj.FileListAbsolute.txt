@@ -1,0 +1,6 @@
+c:\users\попченком\source\repos\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic.exe.config
+c:\users\попченком\source\repos\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic.exe
+c:\users\попченком\source\repos\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic.pdb
+c:\users\попченком\source\repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.csproj.CoreCompileInputs.cache
+c:\users\попченком\source\repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.exe
+c:\users\попченком\source\repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.pdb
